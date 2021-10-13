@@ -65,7 +65,7 @@ def sendEmail(subject, body, to):
 	msg['to'] = to
 
 
-	user = "lezaalert@gmail.com"
+	user = "" #email
 	password = "izbfhjocqhhqgdae"
 	msg['from'] = user
 
